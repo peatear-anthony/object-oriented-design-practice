@@ -14,7 +14,7 @@ In addition, most of the code is written under the context of an OO-design inter
 
 
 ## TO-DO Problems
-- [Design a parking lot]()
+- [Design a parking lot](https://github.com/peatear-anthony/object-oriented-design-practice/tree/main/parking-lot)
 
 ## Contributions/Suggestions
 Any contributions or suggestions for improvement will be greatly appreciated. 
