@@ -16,3 +16,9 @@ You need to design a Vending Machine which
 
 Reference: https://javarevisited.blogspot.com/2016/06/design-vending-machine-in-java.html#axzz78nPXYsMl
 
+### UML Use Case
+![image](https://user-images.githubusercontent.com/44995752/136685129-d632815b-0024-4617-9100-0416468583c1.png)
+
+
+### UML Class Diagram
+![image](https://user-images.githubusercontent.com/44995752/136685158-3d97513b-66b5-4d74-a0da-825fbc267c6f.png)
