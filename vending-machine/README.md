@@ -21,4 +21,4 @@ Reference: https://javarevisited.blogspot.com/2016/06/design-vending-machine-in-
 
 
 ### UML Class Diagram
-![image](https://user-images.githubusercontent.com/44995752/136685158-3d97513b-66b5-4d74-a0da-825fbc267c6f.png)
+![image](https://user-images.githubusercontent.com/44995752/136685272-3e92eea1-f33c-4a03-8cf7-10c0cfabe77c.png)
