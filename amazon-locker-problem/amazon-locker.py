@@ -140,6 +140,7 @@ class Package:
     package_id: str
     customer_id: str
     contents: str
+    locker: Locker
     status: PackageStatus
     dimensions: Dimensions
     size: Size
@@ -232,6 +233,39 @@ class EmailNotification(AbstractNotification):
 class SmsNotification(AbstractNotification):
     def send_notification(self):
         pass
+
+
+def singleton(_class):
+    # Wrapper to turn a class into a singleton
+    pass
+
+
+@singleton
+class LockerSystem:
+    def __init__(self):
+        pass
+
+    def add_locker(self, location: Location, locker: Locker):
+        # add to database
+        pass
+
+    def add_delivery_person(self, delivery_person: DeliveryPerson):
+        # add to database
+        pass
+
+    def add_customer(self, customer: Customer):
+        # add to database
+        pass
+
+    def assign_package_to_locker(self, customer: Customer, package: Package):
+        # Find closest vacant locker for customer
+        pass
+
+    def assign_package_to_delivery_person(self, package:Package):
+        pass
+
+
+
 
 
 
